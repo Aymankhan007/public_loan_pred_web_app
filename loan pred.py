@@ -4,7 +4,7 @@ Created on Thu Jul 31 13:09:40 2025
 
 @author: SSD
 """
-
+import sklearn
 import streamlit as st
 import numpy as np
 import pickle
